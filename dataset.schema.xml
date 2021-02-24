@@ -1,0 +1,26 @@
+<resource xmlns:xsi="https://github.com/kbutlerclary/repository.term.project" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+<identifier identifierType="URL">https://github.com/kbutlerclary/repository.term.project</identifier>
+<creators>
+<creator>
+<creatorName nameType="Personal">Butler-Clary, Karen</creatorName>
+<givenName>Karen</givenName>
+<familyName>Butler-ClaryFosmire</familyName>
+</creator>
+<titles>
+<title xml:lang="en">IMLS Museum Data Files + WSV</title>
+</titles>
+<publisher xml:lang="en">University of Denver</publisher>
+<publicationYear>2021</publicationYear>
+<subjects>
+<subject xml:lang="en">Museum</subject>
+<subject xml:lang="en">Values</subject>
+<subject xml:lang="en">Culture</subject>
+<subject xml:lang="en">Economic Impact</subject>
+</subjects>
+<language>en</language>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<version>1.0</version>
+<descriptions>
+<description xml:lang="en" descriptionType="Abstract"> By adding Institute for Museum and Library Services Museum Data Files to World Values Survey, a cultural values map to the United States can then be overlaid with political and economic maps, allowing for research on how the presence of cultural institutions affects the economic and political leanings of a geographic area.</description>
+</descriptions>
+</resource>
