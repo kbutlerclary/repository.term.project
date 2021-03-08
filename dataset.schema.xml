@@ -1,11 +1,15 @@
-<resource xmlns:xsi="https://github.com/kbutlerclary/repository.term.project" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
 <identifier identifierType="URL">https://github.com/kbutlerclary/repository.term.project</identifier>
-<creators>
 <creator>
-<creatorName nameType="Personal">Butler-Clary, Karen</creatorName>
-<givenName>Karen</givenName>
-<familyName>Butler-Clary</familyName>
+<creatorName nameType="Organizational">Institute of Museum and Library Services (IMLS)</creatorName>
+<nameIdentifier>0000000122148522 </nameIdentifier>
+<nameIdentifierScheme schemeURI="https://www.isni.org/">ISNI</nameIdentifierScheme>
 </creator>
+<contributor contributorType="DataCurator">
+<contributorName nameType="Personal">Butler-Clary, Karen</contributorName>
+<givenName>Karen</givenName>
+<familyName> Butler-Clary </familyName>
+</contributor>
 <titles>
 <title xml:lang="en">IMLS Museum Data Files + WSV</title>
 </titles>
